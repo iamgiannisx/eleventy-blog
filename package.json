@@ -2,7 +2,7 @@
   "name": "sr-11ty-tailwind-alpine-template",
   "version": "1.0.0",
   "description": "Template for new projects with 11ty, TailwindCSS, TailwindUI, and Alpine.js",
-  "author": "Shane Robinson",
+  "author": "ShaneJ Robinson",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template/issues"
